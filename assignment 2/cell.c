@@ -7,8 +7,8 @@
 int main(int argc,char *argv[])
 {
  pid_t cpid;
- int max_size =100;
- char command[max_size];
+ int size =100;
+ char command[size];
  int i=0;
  while(i<12)
  {
